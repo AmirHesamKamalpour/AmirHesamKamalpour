@@ -2,7 +2,7 @@
   <img
     src="assets/pixel_signal_6_frame_loop.gif"
     alt="Animated pixel-art signal representing time-series research"
-    height="120"
+    height="400"
   />
 </p>
 
