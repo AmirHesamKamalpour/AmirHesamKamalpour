@@ -19,8 +19,6 @@ I'm **AmirHesam Kamalpour**, an **M.Sc. student in Artificial Intelligence at th
 
 My current research explores **imbalance-aware time-series learning**: how machine learning models can learn reliably when important temporal patterns or outcomes are underrepresented. My broader interests include **probabilistic forecasting**, **generative models for time series**, and **deep learning**.
 
-I like turning research questions into clear formulations, reproducible experiments, and working implementations.
-
 ### 01 / Current research
 
 **Imbalance-aware time-series learning** · *Ongoing*
