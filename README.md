@@ -1,10 +1,9 @@
 <p align="center">
-  <img
-    src="assets/pixel_signal_6_frame_loop.gif"
-    alt="Animated pixel-art signal representing time-series research"
-    height="400"
-  />
+  <img src="assets/github_readme_signal.gif"
+       alt="Animated Deep Learning Signal"
+       width="900">
 </p>
+
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=0mZFjTwAAAAJ&hl=en">Google Scholar</a>
