@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/signal-header.svg" alt="AmirHesam Kamalpour — imbalance-aware time-series research. An illustrative temporal signal highlights an underrepresented pattern alongside a probabilistic forecast." width="100%" />
+  <img src="assets/pixel_signal_6_frame_loop.gif" alt="Animated pixel-art signal representing time-series research" width="100%" />
 </p>
 
 <p align="center">
