@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/pixel_signal_6_frame_loop.gif" alt="Animated pixel-art signal representing time-series research" width="100%" />
+  <img
+    src="assets/pixel_signal_6_frame_loop.gif"
+    alt="Animated pixel-art signal representing time-series research"
+    height="120"
+  />
 </p>
 
 <p align="center">
