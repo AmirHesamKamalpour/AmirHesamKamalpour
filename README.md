@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/amirhesam-kamalpour/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:amirhesam.kamalpour@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0006-8299-7693">ORCID</a>
 </p>
 
 ### About
